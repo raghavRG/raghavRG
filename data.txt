@@ -1,0 +1,2 @@
+R is software.
+R is free software.
